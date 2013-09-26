@@ -1,6 +1,6 @@
 # oeis-clj
 
-A Clojure library for querying sequences on oeis.org.
+A Clojure library for querying sequences on [oeis.org](http://oeis.org/)
 
 **NEEDS SOME LOVE (only returns single digits instead of '11' or '123')**
 

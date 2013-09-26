@@ -1,8 +1,10 @@
 # oeis-clj
 
-A Clojure library for querying sequences on [oeis.org](http://oeis.org/)
+A Clojure library for querying sequences on [oeis.org](http://oeis.org/).
 
-**NEEDS SOME LOVE (only returns single digits instead of '11' or '123')**
+**NEEDS SOME LOVE** 
+*one of my first clojure/lein projects, need to revisit and revamp*
+*(only returns single digits instead of '11' or '123')*
 
 ## Usage
 

@@ -6,6 +6,8 @@ A Clojure library for querying sequences on oeis.org.
 
 ## Usage
 
+*please see [oeis end-user agreement](http://oeis.org/wiki/The_OEIS_End-User_License_Agreement)*
+
 *originally intended for repl work, retrofitting for a more useable library*
 
 ```clojure
